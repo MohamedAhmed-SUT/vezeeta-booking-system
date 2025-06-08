@@ -1,0 +1,159 @@
+body {
+  font-family: 'Cairo', sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f4f4f9;
+}
+
+.section {
+  text-align: center;
+  padding: 40px 20px;
+  background-color: #f4f4f9;
+}
+
+.section p {
+  font-size: 1rem;
+  color: #333;
+  margin: 10px 0;
+  line-height: 1.6;
+}
+
+.download-section {
+  direction: rtl;
+  background-color: #0f53dc;
+  color: #ffffff;
+  padding: 40px 20px;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  max-width: 100%;
+  margin: 0 auto;
+
+}
+
+.download-section .content-container {
+  flex: 1;
+  padding: 20px;
+}
+
+.download-section .content-container h2 {
+  color: #ffffff;
+  font-size: 1.8rem;
+  margin-bottom: 20px;
+}
+
+.download-section .content-container p {
+  font-size: 1rem;
+  margin-bottom: 30px;
+  line-height: 1.6;
+}
+
+.download-section .buttons {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.download-section .buttons img {
+  max-width: 180px;
+  margin: 5px;
+  vertical-align: middle;
+  border-radius: 10px; 
+}
+
+.download-section .image-container {
+  flex: 1;
+  text-align: center;
+  margin: 10px;
+}
+
+.download-section .image-container img {
+  max-width: 90%;
+  height: auto;
+  border-radius: 25px; 
+}
+
+.chips-container {
+  background-color: #f9f9f9;
+  padding: 20px 10px;
+  text-align: center;
+  max-width: 80%;
+  margin: 20px auto;
+  border-radius: 20px; 
+}
+
+.chips-container h3 {
+  font-size: 1.5rem;
+  margin-bottom: 20px;
+}
+
+.chips-container .chip {
+  display: inline-block;
+  background-color: #ffffff;
+  color: #333;
+  padding: 10px 20px;
+  border: 1px solid #ddd;
+  border-radius: 20px;
+  font-size: 0.9rem;
+  margin: 5px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.chips-container .chip:hover {
+  background-color: #004aad;
+  color: white;
+  border-color: #004aad;
+}
+
+@media (max-width: 768px) {
+  .download-section {
+      flex-direction: column;
+      text-align: center;
+  }
+
+  .download-section .content-container {
+      text-align: center;
+      padding: 10px;
+  }
+}
+
+.Media {
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+    gap: 20px; 
+}
+
+.Media a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.Media .FontAwesomeIcon {
+    font-size: 36px; 
+    transition: color 0.3s ease, transform 0.3s ease;
+    color: gray; 
+}
+
+.Media a:hover .FontAwesomeIcon {
+    color: #0078ff; 
+    transform: scale(1.2); 
+}
+
+.Media .fa-facebook {
+    color: #5799ee; 
+}
+
+.Media .fa-instagram {
+    color: #e1306c;
+}
+
+.Media .fa-twitter {
+    color: #1da1f2; 
+}
+
+.Media h1 i {
+    display: inline-flex;
+}

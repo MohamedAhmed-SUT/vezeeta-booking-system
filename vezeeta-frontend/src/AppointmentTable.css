@@ -1,0 +1,75 @@
+.tableContainer {
+  overflow-x: auto;
+  min-height: 80vh;
+  padding: 24px;
+}
+
+.table {
+  width: 100%;
+  border-collapse: collapse;
+  font-family: Arial, sans-serif;
+}
+
+.table th,
+.table td {
+  border: 1px solid #ddd;
+  padding: 12px;
+  text-align: left;
+}
+.no-appointments {
+  text-align: center;
+  padding: 20px;
+  color: #000;
+  font-size: 1.2rem;
+  background-color: #fafafa;
+  border: 1px dashed #ddd;
+  border-radius: 8px;
+  margin: 20px;
+}
+
+.table th {
+  background-color: #f2f2f2;
+  font-weight: bold;
+}
+
+.table tr:nth-child(even) {
+  background-color: #f9f9f9;
+}
+
+.table tr:hover {
+  background-color: #f5f5f5;
+}
+
+.acceptButton,
+.deleteButton {
+  padding: 6px 12px;
+  margin: 0 4px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+.acceptButton {
+  background-color: #4caf50;
+  color: white;
+}
+
+.deleteButton {
+  background-color: #f44336;
+  color: white;
+}
+
+.acceptButton:hover {
+  background-color: #45a049;
+}
+
+.deleteButton:hover {
+  background-color: #da190b;
+}
+
+.error {
+  color: #f44336;
+  font-weight: bold;
+  margin-bottom: 16px;
+}
