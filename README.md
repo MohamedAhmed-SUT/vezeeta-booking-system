@@ -1,10 +1,10 @@
-# Vezeeta Booking System
+![5173-2025-06-08-18_40_41](https://github.com/user-attachments/assets/d22d685d-969a-4094-a48f-0b12c3ca52be)# Vezeeta Booking System
 
 ## Overview
 
 - Vezeeta Booking System is a web-based healthcare appointment management platform that allows patients to search for doctors, view profiles, and book appointments easily. Inspired by the original Vezeeta service, this project aims to simulate a full-stack medical booking system with features like user registration, doctor listings, appointment scheduling, and admin controls.
 
-![Uploading screencapture-localhost-5173-2025-06-08-18_40_41.png…]()
+![Screenshot 2025-06-08 190346](https://github.com/user-attachments/assets/5a13a518-7245-4f04-984b-c97b725748d1)
 
 ![1738920017589](https://github.com/user-attachments/assets/6dd84d35-5cdf-4e50-b881-ff9c19c31a57)
 
@@ -14,8 +14,9 @@
 
 ![screencapture-localhost-5173-login-2025-06-08-18_45_43](https://github.com/user-attachments/assets/8354eb96-3998-4599-8cfc-8ad6e80713b0)
 
-![Uploading screencapture-localhost-5173-About-2025-06-08-18_46_08.png…]()
+![Screenshot 2025-06-08 190546](https://github.com/user-attachments/assets/d14e99fb-5096-4068-b3b0-f80a89c16678)
 
-![Uploading screencapture-localhost-5173-WhychooseUs-2025-06-08-18_45_54.png…]()
+![Screenshot 2025-06-08 190721](https://github.com/user-attachments/assets/f05936fc-ac9f-4ab6-841e-7ac245774344)
 
-![Uploading screencapture-localhost-5173-FAQ-2025-06-08-18_46_20.png…]()
+![Screenshot 2025-06-08 190641](https://github.com/user-attachments/assets/c64d3153-ac02-4dfb-8987-5899be358cf3)
+
